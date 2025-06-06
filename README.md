@@ -8,7 +8,7 @@ This project demonstrates the implementation of **Clock Domain Crossing (CDC)** 
 - **Producer Domain**: 1 MHz (ADC control and data acquisition)
 - **Consumer Domain**: 50 MHz (Seven-segment display updates)
 
-The design ensures data integrity during cross-domain transfers using FIFO synchronizers and Gray code conversion to prevent metastability issues.
+The design prevents data loss during cross-domain transfers using FIFO synchronizers and Gray code conversion to prevent metastability issues.
 
 ## 🔧 Hardware USED
 
