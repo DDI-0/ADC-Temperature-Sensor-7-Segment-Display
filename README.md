@@ -1,6 +1,6 @@
 # Temperature Measurements: Clock Domain Crossing (CDC)
 
-A digital system design project implementing temperature measurement using analog-to-digital conversion with proper clock domain crossing techniques on Intel MAX10 FPGA.
+A digital system design project implementing temperature measurement using analog-to-digital conversion with a clock domain crossing technique on Intel MAX10 FPGA.
 
 ## 📋 Project Overview
 
